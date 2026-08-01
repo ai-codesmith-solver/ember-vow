@@ -1,0 +1,27 @@
+# ─────────────────────────────────────────────────────────────
+#  Ember Vow — .gitignore
+#  Keeps private + copyrighted + heavy raw files out of the public repo.
+# ─────────────────────────────────────────────────────────────
+
+# Third-party copyrighted study clips — DO NOT publish
+reference/
+
+# Private notes about the author (Claude memory) — not for the public
+memory/
+
+# Raw un-edited assembly (the README features the finished film instead)
+assets/full_vedio/0801.mp4
+
+# ── OS / editor cruft ──
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+.vscode/
+.idea/
+
+# ── Scratch / temp ──
+*.tmp
+*.log
+scratchpad/
+tmp/
