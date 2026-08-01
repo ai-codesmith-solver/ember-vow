@@ -4,12 +4,21 @@
 The real question behind it: *can today's AI hold a single character consistent across 14
 independent shots — enough to make something that reads as one film, not fourteen clips?*
 
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     ▶️  MAKE THE FILM PLAY INLINE (one-time, ~30 seconds, on GitHub web)
+     1. Open this README on GitHub → click the ✏️ pencil (Edit).
+     2. Put the cursor on the EMPTY line just below this comment.
+     3. Drag  assets/full_vedio/Ember_Vow.mp4  from your computer into the editor.
+        GitHub uploads it and inserts a  https://github.com/user-attachments/assets/…  link.
+     4. That link renders as a VIDEO PLAYER automatically. Commit.
+     5. (Optional) delete the poster block below so the player is the first thing seen.
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+
 <p align="center">
-  <a href="assets/full_vedio/Ember_Vow.mp4">
-    <img src="assets/full_vedio/Ember_Vow_poster.jpg" width="820" alt="Ember Vow — click to play"/>
-  </a>
+  <img src="assets/full_vedio/Ember_Vow_poster.jpg" width="820" alt="Ember Vow"/>
   <br/>
-  <em><b>▶ <a href="assets/full_vedio/Ember_Vow.mp4">Watch the film — assets/full_vedio/Ember_Vow.mp4</a></b> · 16:9 · cinemascope · cel-shaded anime</em>
+  <em>16:9 · cinemascope · cel-shaded anime · ~1 min &nbsp;·&nbsp; <b><a href="assets/full_vedio/Ember_Vow.mp4">▶ download the film</a></b></em>
 </p>
 
 ---
